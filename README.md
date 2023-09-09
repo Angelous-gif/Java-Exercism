@@ -3,5 +3,5 @@ I'll be sharing my solutions for the Java learning path on exercism, I'm just st
 | Title | Language | Difficulty |
 |---|---|---|
 | [HelloWorld](https://github.com/Angelous-gif/Java-Exercism/blob/main/HelloWorld.java) | Java | Easy |
-| [Cook Your Lasagna](https://github.com/Angelous-gif/Java-Exercism/blob/main/cookYourLasagna.java) | Java | Medium (for me)|
+| [Cook Your Lasagna](exercises/cookYourLasagna.java) | Java | Medium (for me)|
 | Hard |  Java | Hard |
